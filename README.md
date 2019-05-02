@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Scientist’s Toolbox assignment 
+The Data Scientist’s Toolbox course assignment.
